@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "titulo": "Alice no País das Maravilhas",
+    "autor": "Lewis Carroll",
+    "preco": "46,51",
+    "genero": "Fantasia",
+    "paginas": "224",
+    "likes": 0,
+    "sinopse": "Uma menina, um coelho e uma história capazes de fazer qualquer um de nós voltar a sonhar. Alice é despertada de um leve sono ao pé de uma árvore por um coelho peculiar. Uma criatura alva e falante com roupas engraçadas, que consulta seu relógio e reclama do próprio atraso. Curiosa como toda criança, Alice segue o animal até cair em um buraco sem fim que mudou para sempre a literatura infantil. Mais de 150 anos depois, Alice no País das Maravilhas continua repleto de ensinamentos para aqueles que ousaram seguir o Coelho Branco até sua toca.",
+    "imagens": [
+      {
+        "file": "lib/data/images/Alice.jpg"
+      },
+      {
+        "file": "lib/data/images/Alice1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Deuses de Neon",
+    "autor": "Katee Robert",
+    "preco": "41,61",
+    "genero": "Fantasia",
+    "paginas": "352",
+    "likes": 0,
+    "sinopse": "Perséfone, a queridinha da sociedade, planeja fugir da reluzente e ultramoderna cidade de Olimpo e recomeçar longe da política traiçoeira das Treze Casas. Mas seus planos são ameaçados quando a mãe a envolve na armadilha de um noivado com o poderoso Zeus, com quem qualquer pessoa da cidade superior daria tudo para se casar. Qualquer pessoa, menos Perséfone.",
+    "imagens": [
+      {
+        "file": "lib/data/images/DeusesNeon.jpg"
+      },
+      {
+        "file": "lib/data/images/DeusesNeon1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "preco": "79,99",
+    "genero": "Ficção científica",
+    "paginas": "680",
+    "likes": 0,
+    "sinopse": "Uma estonteante mistura de aventura e misticismo, ecologia e política, este romance ganhador dos prêmios Hugo e Nebula deu início a uma das mais épicas histórias de toda a ficção científica. Duna é um triunfo da imaginação, que influenciará a literatura para sempre.Esta edição inédita, com introdução de Neil Gaiman, apresenta ao leitor o universo fantástico criado por Herbert e que será adaptado ao cinema por Denis Villeneuve, diretor de A chegada e de Blade Runner 2049.",
+    "imagens": [
+      {
+        "file": "lib/data/images/Duna.jpg"
+      },
+      {
+        "file": "lib/data/images/Duna1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Hobbit",
+    "autor": "J. R. R. Tolkien",
+    "preco": "50,84",
+    "genero": "Fantasia",
+    "paginas": "336",
+    "likes": 0,
+    "sinopse": "Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos.",
+    "imagens": [
+      {
+        "file": "lib/data/images/Hobbit.jpg"
+      },
+      {
+        "file": "lib/data/images/Hobbit1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "O Jardim Secreto",
+    "autor": "Frances Hodgson Bernett",
+    "preco": "19,44",
+    "genero": "Fantasia",
+    "paginas": "288",
+    "likes": 0,
+    "sinopse": "As histórias encantadoras e surpreendentes são capazes de tocar o coração de leitores de diferentes gerações. Em 1911, a autora Frances Hodgson Burnett escreveu O Jardim Secreto, uma obra sobre o poder transformador da amizade e da natureza. O enredo conta a história de Mary, uma menina rabugenta, irritada e desagradável; Dickon, um garoto doce e amigo que é encantador de animais; e Colin, um menino mimado e apavorado com uma possível iminência da morte. Lírico e apaixonante, O Jardim Secreto é um livro que fascina a todos com sua receita secreta para vencer obstáculos, superar desafios e encontrar um motivo para ser feliz. Mergulhe neste emocionante clássico da literatura infantojuvenil.",
+    "imagens": [
+      {
+        "file": "lib/data/images/JardimSecreto.jpg"
+      },
+      {
+        "file": "lib/data/images/JardimSecreto1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "As Crônicas de Nárnia",
+    "autor": "C. S. Lewis",
+    "preco": "49,00",
+    "genero": "Fantasia",
+    "paginas": "752",
+    "likes": 0,
+    "sinopse": "Viagens ao fim do mundo, criaturas fantásticas e batalhas épicas entre o bem e o mal - o que mais um leitor poderia querer de um livro? O livro que tem tudo isso é 'O leão, a feiticeira e o guarda-roupa', escrito em 1949 por Clive Staples Lewis. MasLewis não parou por aí. Seis outros livros vieram depois e, juntos, ficaram conhecidos como 'As crônicas de Nárnia'.",
+    "imagens": [
+      {
+        "file": "lib/data/images/Narnia.jpg"
+      },
+      {
+        "file": "lib/data/images/Narnia1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "O Filho de Netuno",
+    "autor": "Rick Riordan",
+    "preco": "49,90",
+    "genero": "Fantasia",
+    "paginas": "432",
+    "likes": 0,
+    "sinopse": "Filho de Poseidon, o deus do mar, um belo dia Percy desperta sem memória e acaba em um acampamento de heróis que não reconhece. Agarrado à lembrança de uma garota, só tem uma certeza: os dias de jornadas e batalhas não terminaram. Percy e seus novos colegas semideuses vão enfrentar os misteriosos desígnios da Profecia dos Sete. Se falharem, as consequências, é claro, serão desastrosas.",
+    "imagens": [
+      {
+        "file": "lib/data/images/OFilhoDeNetuno.jpg"
+      },
+      {
+        "file": "lib/data/images/OFilhoDeNetuno1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "preco": "47,90",
+    "genero": "Romance",
+    "paginas": "240",
+    "likes": 0,
+    "sinopse": "Orgulho e Preconceito é um dos mais aclamados romances da escritora inglesa Jane Austen. Publicado em 1813, revela como era a sociedade da época, quando os relacionamentos se desenrolavam de maneira mais lenta e romântica, no ritmo das cartas levadas por mensageiros a cavalo. Nesse mundo, o sonho da Sra. Bennet era casar bem suas cinco filhas: Jane, Elizabeth, Mary, Kitty e Lydia. Entre as irmãs, destaca-se Elizabeth, a Lizzy, que se depara com um turbilhão de sentimentos diante do orgulho e preconceito que mascaram a realidade. Trata-se de um clássico que, mesmo após duzentos anos desde a sua primeira publicação, continua a encantar milhões de leitores ao redor do mundo.",
+    "imagens": [
+      {
+        "file": "lib/data/images/OrgulhoEPreconceito.jpg"
+      },
+      {
+        "file": "lib/data/images/OrgulhoEPreconceito1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "O Ultimo Olimpiano",
+    "autor": "Rick Riordan",
+    "preco": "51,00",
+    "genero": "Fantasia",
+    "paginas": "384",
+    "likes": 0,
+    "sinopse": "Os meios-sangues passaram o ano inteiro preparando-se para a batalha contra os Titãs, e sabem que as chances de vitória são pequenas. O exército de Cronos está mais poderoso que nunca, e cada novo deus ou semideus que se une à causa confere mais força ao vingativo titã.",
+    "imagens": [
+      {
+        "file": "lib/data/images/OUltimoOlimpiano.jpg"
+      },
+      {
+        "file": "lib/data/images/OUltimoOlimpiano1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Silmarillion",
+    "autor": "J. R. R. Tolkien",
+    "preco": "48,08",
+    "genero": "Fantasia",
+    "paginas": "592",
+    "likes": 0,
+    "sinopse": "'O Silmarillion' é um relato dos Dias Antigos da Primeira Era do mundo criado por J.R.R. Tolkien. É a história longínqua para a qual os personagens de 'O Senhor dos Anéis' e 'O Hobbit' olham para trás, e em cujos eventos alguns deles, como Elrond e Galadriel, tomaram parte. Os contos de 'O Silmarillion' se passam em uma época em que Morgoth, o Primeiro Senhor Sombrio, habitava a Terra-média, e os Altos-Elfos guerreavam contra ele pela recuperação das Silmarils, as joias que continham a pura luz de Valinor.",
+    "imagens": [
+      {
+        "file": "lib/data/images/Silmarillion.jpg"
+      },
+      {
+        "file": "lib/data/images/Silmarillion1.jpg"
+      }
+    ]
+  }
+]

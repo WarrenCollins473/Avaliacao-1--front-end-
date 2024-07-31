@@ -9,8 +9,7 @@ Antes de começar, você precisa ter o seguinte software instalado na sua máqui
 - **Flutter SDK**: [Instruções de Instalação](https://flutter.dev/docs/get-started/install)
 - **Dart SDK**: Incluído com o Flutter SDK
 - **Android Studio**: Inclui o Android SDK e o Android Virtual Device (AVD)
-- **Xcode**: Necessário para desenvolvimento iOS (apenas em macOS)
-- **Visual Studio Code** (opcional, mas recomendado)
+- **Visual Studio Code**
 
 Certifique-se de adicionar o Flutter ao PATH do seu sistema.
 
